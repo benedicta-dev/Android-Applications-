@@ -1,4 +1,4 @@
-# 🎓 Grade Calculator (Dart / Flutter)
+# 🎓 Grade Calculator (Dart)
 
 ## 📱 Project Overview
 
